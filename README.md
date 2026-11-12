@@ -1,25 +1,14 @@
-
-## 2. Rock Paper Scissors
-
-**Repository name:** `Rock-Paper-Scissors`
-
-**Description:**
-A simple Rock Paper Scissors game developed using Python. Play against the computer and see who wins!
-
-**README.md:**
-
-```markdown
 # Rock Paper Scissors
 
 ## About the Project
-Rock Paper Scissors is a simple command-line game developed using Python. The player competes against the computer by choosing one of three options: Rock, Paper, or Scissors. The computer randomly generates its choice, and the program determines the winner.
+Rock Paper Scissors is a simple command-line game developed using Python. The player competes against the computer by choosing one of three options: Rock, Paper, or Scissors. The computer randomly generates its choice, and the program determines the winner based on the rules of the game.
 
 ## Features
 - Play against the computer.
 - Random computer choices.
 - ASCII art representations of Rock, Paper, and Scissors.
 - Automatic winner detection.
-- Input validation for available choices.
+- Simple command-line interface.
 
 ## Technologies Used
 - Python
@@ -31,12 +20,24 @@ Rock Paper Scissors is a simple command-line game developed using Python. The pl
 3. Open the project folder.
 4. Run the following command:
 
-```bash
-python main.py
+`python main.py`
+
+## Game Rules
+- Rock beats Scissors.
+- Scissors beats Paper.
+- Paper beats Rock.
+- If both players choose the same option, the result is a tie.
+
+## What I Learned
+Through this project, I practised:
+- Using Python's random module.
+- Working with conditional statements.
+- Handling user input.
+- Comparing values using logical operators.
+- Displaying ASCII art in the terminal.
 
 ## Game Demonstration
-
-Here is a short video demonstrating the gameplay:
+Here is a short video demonstrating the gameplay.
 
 
 https://github.com/user-attachments/assets/77d62a0c-85bf-4289-b3ad-4432e6a11368
@@ -48,6 +49,8 @@ https://github.com/user-attachments/assets/77d62a0c-85bf-4289-b3ad-4432e6a11368
 
 
 
-Created by Alijamal Jamal-zada
+## Author
+Created by Alijamal Jamal-zada.
 
-© 2026 All rights reserved.
+© 2026 Alijamal Jamal-zada. All rights reserved.
+
